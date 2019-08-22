@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a603c6cf-fd38-468b-aad5-fec16b343826" name="Default Changelist" comment="" />
+    <list default="true" id="a603c6cf-fd38-468b-aad5-fec16b343826" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -50,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/apistackbase/controller/HelloResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="307">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -144,6 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -193,7 +197,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="643" y="120" width="1147" height="829" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -202,11 +205,11 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50045997" side_tool="true" visible="true" weight="0.32902297" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5154584" side_tool="true" weight="0.248104" />
       <window_info anchor="bottom" id="Build" sideWeight="0.49954003" weight="0.32902297" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49954003" visible="true" weight="0.32902297" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48454157" weight="0.43678162" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -245,8 +248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tw/apistackbase/controller/HelloResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="307">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
         </state>
       </provider>
     </entry>
